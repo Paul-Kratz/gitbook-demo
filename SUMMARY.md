@@ -4,6 +4,7 @@
 
 ## User Guide
 
-* [Dashboard](dashboard.md)
-* Analytics
-    * [Product Requests](productRequests.md)
+* [Dashboard](user-guide/dashboard.md)
+* [Analytics](user-guide/analytics/README.md)
+  * [Product Requests](user-guide/analytics/productrequests.md)
+
